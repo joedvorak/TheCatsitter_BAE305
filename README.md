@@ -49,7 +49,7 @@ The dispenser part is the main part of this design. The food dispenser tube piec
 ![Assembly 1](https://user-images.githubusercontent.com/102251593/165393820-82d2c84a-5e47-40f7-9d0c-e028c64fae9d.png)
 
 Inside the food dispenser tube, there is a hole cutout in the flat part where the food holder meets the tube. A 1", 0.156" deep magnet can be placed in the hole cutout once the 2 halves of the tube are glued and screwed to each other. 
-
+![Tube_magnet holder](https://user-images.githubusercontent.com/102251593/165538759-7411145d-2647-418e-a037-0d6c0b18a0f1.png)
 The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. An image of this assembly can be seen below. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. This bottle will act as the treat holder.
 ![Assembly 2 (1)](https://user-images.githubusercontent.com/102251593/165395272-aa60b9f2-5a4c-48f8-a666-930bae5a280d.png)
 The food holder is attached similarly, but slightly different. The base was 3D printed to have a 2L attach to it and a magnet in the round cut out on the flat edge. A 1" magnet of depth 0.156" was hot met glued into this slot. A 2L had 2 inches from the opening of the bottle removed and 0.5" slots cut vertically fron this cut. These edges were seperated out and hot melt glued onto the base piece. The bottom of the bottle was completely cut off about 4" down. This will be used as a top, but is now removable. Then 4 pea-sized glue nubs were melted into place to secure the top. 
@@ -77,18 +77,18 @@ Both bottles should be removable, and the box can optionally be painted. We pain
 
 ### Cat Feeder code summary:
 In the Cat feeder code, there is an if else loop. The first loop is run when the red button(button1) is pressed. When going through the first loop the first servo opens for 2 milliseconds which releases about XX cup of food into the holding department then shuts. The second servo opens for several seconds allowing for all the food to be released into the bowl and shuts the servo gate back. A buzzer then goes off for one second alerting the cat there is food in the bowl. The if else loops have the process as the if loop, but with different time amount for the first servo to open. In this loop the gate is open for 5 milliseconds allowing for XX cups to be dropped. Both the if and if else loop repeat every12 hours to feed the cat. The else loop is for when neither button is pressed and keeps both servos in the closed position until one button is pressed. 
-
+<img width="577" alt="cat feeder circuit" src="https://user-images.githubusercontent.com/102251593/165538922-eaa1a985-7b93-4617-ba75-329e9722380b.png">
 ### Treat code summary:  
 
 The treat dispenser code is very similar to that of the food dispenser but only uses one servo. A speaker alerts the cat treats are about to drop then opens a servo for 2 milliseconds releasing a few treats then closes back and waits 2 hours before releasing more treats.  
 
-
+<img width="536" alt="treat dispenser" src="https://user-images.githubusercontent.com/102251593/165538906-a9279138-ef0f-4154-88a9-fc2b32617530.png">
 
 ### Laser Code Summary:
 
 The void loop in the laser code has a list of different servo positions that move each servo to a different location when the laser is on and holds a position for a certain amount of time before moving again. There is also a buzzer hooked up to the circuit that plays a different sound than the treat and food dispenser to alert the cat that it is time to play with the laser. 
 
-
+<img width="583" alt="laser pointer" src="https://user-images.githubusercontent.com/102251593/165538932-2e7458c7-55ef-40b3-acd7-414b12f7d46b.png">
 
 # Discussion of Design
 ### Measuring Design
