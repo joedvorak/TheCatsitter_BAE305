@@ -64,6 +64,8 @@ A box constructed of ¼” birch plywood. A design was created in Illustrator to
 
 The box was constructed of 2 12”x8” sides, a 12”x8.5” base, a front and back of 7.75”x8”, a top consisting of 3 pieces that are connected with a hingel. This hinge is attached to the direct middle of the middle section and the middle of the back of both top pieces on either side. A middle 7.75”x8” piece that adds structure to the feeder. The illustration below shows the design of the box. All pieces were attached using standard wood glue and clamps to hold the pieces together while they dry. The middle section and the top were not added until later to ensure all the 3D printed pieces were in place and the inside was accessible.
 
+![Top pic](https://user-images.githubusercontent.com/102251593/165577752-f8b6315e-9757-4ae3-981c-ecfc5e0e675d.jpg)
+
 Once the box was constructed, the 3D printed parts could be attached. The food dispenser tube could be attached with hot melt glue to the front piece along with the middle piece, wedging both sides into it. The front of the tube should fit flush with the front wood piece. Now what this piece is in place, the top can be assembled on top using wood glue and clamps. These pieces were spaced out and attached in the same way they are designed in the Illustrator file. 
 To attach the treat dispenser, the piece was glued to fit flush into the circular hole cut out in the left side piece. The top was also glued to the top sectional piece, with the hole matching up with the slot in the treat dispenser. 
 
