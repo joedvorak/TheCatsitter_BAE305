@@ -31,7 +31,9 @@ For the BAE 305 group project, the CatSitter was invented. The CatSitter is a co
 -	Prusa 3D printers
 -	Laser cutter
 -	Bandsaw 
--	Other simple wood-working tools
+-	Small screw driver
+-	Xacto Knife
+-	Wood clamps
 -	A ruler/measurement devices
 
 ## Mechanic Design:
