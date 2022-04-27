@@ -71,11 +71,11 @@ To attach the treat dispenser, the piece was glued to fit flush into the circula
 
 ### Laser Pointer Assembly
 The laser pointer was created with 2 mini servos, one controlling x- and y-axis and another servo attached to the first servo in the side controlling the z-axis of the laser pointer. The pointer is placed on the servo arm of the z-axis servo. This laser pointer is attached with electrical tape. The z-servo is attached to the xy-servo moving arm with hot melt glue. The xy-servo was attached via a 3D printed part found online. This STL file can be found in the model files labeled “laser_case”. The servo was glued to this case and the case was glued onto the left side of the box wall at about 2” in with the top of the servo case flush with the top of the box. There should be nothing inhibiting movement of either of the servo arms. 
-
+![IMG-0791](https://user-images.githubusercontent.com/102251593/165579792-ac6e9481-960a-42b4-8b90-6768f8f5d05b.jpg)
 A breadboard with the 2 control buttons was placed in the rectangle cutout on the right side of the box. This hole was covered by tape so only the two buttons were visible and accessible. Other 2 breadboard and Arduino controllers were attached to the sides of the box using 3M Velco tape and electrical tape. All wires for each board were bundled together and extended using electrical tape. 
 
 Both bottles should be removable, and the box can optionally be painted. We painted our pet-friendly black and attached fun charms to bling it up. But this is purely cosmetic and completely optional. 
-
+![IMG-0789](https://user-images.githubusercontent.com/102251593/165579783-0d365616-ca6b-4582-ae9f-a519a382bf2e.jpg)
 ## Circuit Design 
 
 
