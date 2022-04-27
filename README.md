@@ -45,10 +45,10 @@ The basis of this design was based on a gravity feeder with servo arm controllin
 
 All the STL files can be accessed in the Github repository. All of these parts were 3D printed using PLA on the Prusa 3D printers. The tubes both are complicated round designs that would be hard to 3D print like normal, so the pieces were sliced in half to print both sides separately and be attached with glue and a ¼” nut and bolt through the flange section. 
 
-The dispenser part is the main part of this design. The tube piece is that base that has 3 parts attached to it. This assembly rendering illustrates how this is connected.
+The dispenser part is the main part of this design. The food dispenser tube piece is the base of this design and has 3 3D printed parts attached to it, the food holder base, and 2 moving plates. This assembly rendering illustrates how this pieces are connected:
 ![Assembly 1](https://user-images.githubusercontent.com/102251593/165393820-82d2c84a-5e47-40f7-9d0c-e028c64fae9d.png)
 
-Inside the food dispenser tube, a 1" 0.156" deep magnet can be placed in the hole cutout once the 2 halves are attached to each other. 
+Inside the food dispenser tube, there is a hole cutout in the flat part where the food holder meets the tube. A 1", 0.156" deep magnet can be placed in the hole cutout once the 2 halves of the tube are glued and screwed to each other. 
 
 The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. An image of this assembly can be seen below. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. This bottle will act as the treat holder.
 ![Assembly 2 (1)](https://user-images.githubusercontent.com/102251593/165395272-aa60b9f2-5a4c-48f8-a666-930bae5a280d.png)
@@ -103,6 +103,8 @@ The models were designed to be custom for this object. Each plate was designed t
 
 The tubes were designed with attachment to the box in mind. The base tube is designed to sit in the wall of the box, hence the small horizontal section at the bottom of the tube. This design helps with stability of the piece and creates a more cohesive product. The custom design includes a top section that holds the base of the food holder. This part includes a lip that the holder fits into along with a magnet that lines up with a magnet on the food holder base. This magnet helps with the stability of the part and will avoid being turned over by the cat. The tube also has a base of an L-bracket. This bracket also assists in stability of the product and rests on a small piece of wood glued into place. The advantage of this design is that it is very specific yet simple. Each piece fits perfectly into place and is designed for that very purpose. This allows for a very fluid design that looks good and functions even better. 
 
+### Laser design
+The laser toy on the side of the cat feeder was designed with two servos attached to each other, one servo moves on the x-axis while the other moves on the y-axis. We attached the two servos by gluing then together along with taping the laser pointer on the the servos that moves the y-axis. We attached the bottom servo(x-axis) to the side of the catsitter with a 3D printed servo holder that was glued on the side of the box. This allows for the toy to easily be removed and placed in the box if need be.
 
 # Testing Description
 
